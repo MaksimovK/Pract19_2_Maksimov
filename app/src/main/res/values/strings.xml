@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Pract18</string>
+    <string name="ticket_pdd">Билеты ПДД</string>
+    <string name="login">Логин</string>
+    <string name="password">Пароль</string>
+    <string name="enter">Войти</string>
+    <string name="register">Зарегистироваться</string>
+    <string name="delete">Удалить</string>
+    <string name="add">Добавить</string>
+    <string name="list_tickets">Список билетов</string>
+    <string name="add_ticket">Добавление битлета</string>
+    <string name="number_ticket">Номер билета</string>
+    <string name="type_ticket">Тип билета</string>
+</resources>
